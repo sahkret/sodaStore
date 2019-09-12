@@ -1,0 +1,58 @@
+{
+	"products" : [
+		{
+			"name" : "Piece of Shit",
+			"price" : "161",
+			"options" : [
+				{ "Størrelse" : "Small,Medium,Large,XL,XXL" }
+			],
+			"image" : "\\images\\pieceofshirt.png",
+			"description" : "Hvid t-shirt med sort print, af fornærmelse skrevet på amerikansk tegnsprog (ASL)."
+		},
+		{
+			"name" : "Shit for Brains",
+			"price" : "161",
+			"options" : [
+				{ "Størrelse" : "Small,Medium,Large,XL,XXL" }
+			],
+			"image" : "\\images\\shirtforbrains.png",
+			"description" : "Hvid t-shirt med sort print, af fornærmelse skrevet på amerikansk tegnsprog (ASL)."
+		},
+		{
+			"name" : "Slut",
+			"price" : "161",
+			"options" : [
+				{ "Størrelse" : "Small,Medium,Large,XL,XXL" }
+			],
+			"image" : "\\images\\slut.png",
+			"description" : "Hvid t-shirt med sort print, af fornærmelse skrevet på amerikansk tegnsprog (ASL)."
+		},
+		{
+			"name" : "Bullshit",
+			"price" : "161",
+			"options" : [
+				{ "Størrelse" : "Small,Medium,Large,XL,XXL" }
+			],
+			"image" : "\\images\\bullshirt.png",
+			"description" : "Hvid t-shirt med sort print, af fornærmelse skrevet på amerikansk tegnsprog (ASL)."
+		},
+		{
+			"name" : "Dumbass",
+			"price" : "161",
+			"options" : [
+				{ "Størrelse" : "Small,Medium,Large,XL,XXL" }
+			],
+			"image" : "\\images\\dumbasst.png",
+			"description" : "Hvid t-shirt med sort print, af fornærmelse skrevet på amerikansk tegnsprog (ASL)."
+		},
+		{
+			"name" : "Bastard",
+			"price" : "161",
+			"options" : [
+				{ "Størrelse" : "Small,Medium,Large,XL,XXL" }
+			],
+			"image" : "\\images\\bastardtshirt.png",
+			"description" : "Hvid t-shirt med sort print, af fornærmelse skrevet på amerikansk tegnsprog (ASL)."
+		}
+	]
+}

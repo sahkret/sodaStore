@@ -1,0 +1,102 @@
+* {
+    box-sizing: border-box;
+}
+
+/* Body */
+
+body{
+    position: relative;
+    padding-bottom: 10rem;
+    min-height: 100vh;
+}
+
+@media (min-width: 650px){
+    body{
+        padding-bottom: 6rem;
+    }
+}
+
+@media (min-width: 1025px){
+    body{
+        padding-bottom: 5.2rem;
+        min-height: 97.2vh;
+    }
+}
+
+/* Footer */
+
+footer{
+    display: flex;
+    flex: 1 0 auto;
+    background-color: #000;
+    color: #FFF;
+    justify-content: space-between;
+    margin: 0;
+    padding: 1rem;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+.soMe{
+    font-size: 2rem;
+    max-width: 48%;
+    padding-left: 2rem;
+}
+
+/* SoMe display on hover */
+
+h6{
+    display: none;
+}
+
+.mail:hover + .email,
+.phone:hover + .number,
+.fb:hover + .facebook,
+.insta:hover + .ig{
+    display: inline;
+}
+
+.soMe i{
+    padding-right: 1rem;
+}
+
+.info{
+    font-size: 1rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    max-width: 48%;
+    padding-right: 2rem;
+}
+
+.info .icon{
+    font-size: 2rem;
+    padding: 0;
+    padding-right: 1rem;
+
+}
+
+.info p{
+    margin: 0;
+}
+
+.info .icon:hover{
+    color: #fff;
+}
+
+h5{
+    margin: 0;
+}
+
+/* Footer media query */
+
+@media (min-width: 1025px){
+    .info{
+        padding-right: 8rem;
+    }
+
+    .soMe{
+        padding-left: 8rem;
+    }
+}
