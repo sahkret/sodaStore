@@ -1,22 +1,22 @@
 {
 	"products" : [
 		{
-			"name" : "Piece of Shit",
-			"price" : "161",
+			"name" : "Coca Cola glasflaske",
+			"price" : "15",
 			"options" : [
 				{ "Størrelse" : "Small,Medium,Large,XL,XXL" }
 			],
-			"image" : "\\images\\pieceofshirt.png",
-			"description" : "Hvid t-shirt med sort print, af fornærmelse skrevet på amerikansk tegnsprog (ASL)."
+			"image" : "\\images\\cocacolaglassbottle.jpg",
+			"description" : "Coca Cola glasflaske, 33cl."
 		},
 		{
-			"name" : "Shit for Brains",
-			"price" : "161",
+			"name" : "Coca Cola dåse",
+			"price" : "10",
 			"options" : [
-				{ "Størrelse" : "Small,Medium,Large,XL,XXL" }
+				{ "Størrelse" : "33cl" }
 			],
-			"image" : "\\images\\shirtforbrains.png",
-			"description" : "Hvid t-shirt med sort print, af fornærmelse skrevet på amerikansk tegnsprog (ASL)."
+			"image" : "\\img\\Cocacolacan.jpg",
+			"description" : "Coca Cola dåse, 33cl."
 		},
 		{
 			"name" : "Slut",
