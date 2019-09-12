@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+}
+
+.header h1 {
+    text-align: center;
+}
+
+.produkter{
+    font-size: 40px;
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.produkter img{
+    width: 50%;
+    height: auto;
+    opacity: 0.5;
+    clip: rect(0px,100px,0px,0px);
+}
+
+.protxt{
+    position: absolute;
+    top: calc(50% - 20px);
+    left: calc(50% - 20px);
+}
