@@ -1,0 +1,1 @@
+This is a simpleStore alteration for educational purposes.
