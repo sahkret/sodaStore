@@ -73,7 +73,7 @@ $(function() {
 	simpleStore.init({
 
 		// brand can be text or image URL
-		brand : "http://www.banscapegoat.nu/images/logoBlack.png",
+		brand : "SodaShoppen",
 
 		// number of products per row (accepts 1, 2 or 3)
 		numColumns : 3,
